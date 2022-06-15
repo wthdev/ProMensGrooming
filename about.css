@@ -1,0 +1,32 @@
+img{
+    border: 2px;
+    border: solid black;
+    border-radius: 50px;
+    transition: transform .2s
+}
+
+img:hover{
+    transition-duration: 0.6;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+body{
+    background-image: url(images/contactbg.webp);
+}
+
+*{
+    font-family: sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+
+.details{
+    background-color: black;
+    color: aliceblue;
+}
+
+.details h2{
+    text-align: center;
+}
+

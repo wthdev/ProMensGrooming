@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+    padding: 1;
+}
+.heading h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.blog1{
+    background-color: bisque;
+    text-align: left;
+}
+
+.blog2{
+    background-color: beige;
+    text-align: left;
+}
+
+.blog3{
+    background-color: lightpink;
+    text-align: left;
+}
+
+.blog4{
+    background-color: blanchedalmond;
+    text-align: left;
+}

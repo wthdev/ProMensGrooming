@@ -1,0 +1,58 @@
+body{
+    background-image: url("images/contactbg.webp");
+}
+h1, h5{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.form{
+    text-align: justify;
+    margin: 15px;
+    padding: 10px;
+}
+
+.form{
+    background-color: black;
+    color: whitesmoke;
+    margin: 50px;
+    border-radius: 20px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.form table tr td{
+    padding: 2px;
+    margin: 20px;
+}
+
+.btn{
+    text-align: center;
+}
+
+.btn input {
+    font-family: sans-serif;
+    border:none;
+    font-size: 20px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    opacity: 0.6;
+    border-radius: 2000px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;background-color: transparent;
+    font-size: 20px;
+}
+
+.btn input:hover{
+    opacity: 1;
+    cursor: pointer;
+    text-align: center;
+    background-color: goldenrod;
+    transition-duration: 0.4s;
+    color: black;
+}
